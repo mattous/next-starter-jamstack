@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>mattous.ts</h1>
+    <h1>mattous.tk</h1>
   
     <p>This is a test</p>
 
